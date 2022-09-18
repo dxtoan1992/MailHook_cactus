@@ -25,7 +25,7 @@ class Config:
         self.emojis = Emojis()
         self.logs = Logs()
         self.prefixes = ['4', '?']
-        self.status = 'Ỳàhúúúúúúúúúú'
+        self.status = 'Candy Sugar Bot Mới'
         self.owners = [852836520591228998, 558861606063308822]
         self.client_secret = os.environ.get('CLIENT_SECRET')
         self.bot_lists = [733135548566470726, 333949691962195969]
